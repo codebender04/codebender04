@@ -13,7 +13,7 @@ I'm codebender04, a self-taught game developer and a student at Fulbright Univer
 🎵 **Music & SFX:**
 - I have good knowledge of music theory and have composed beats and game music using FL Studio.
 - Experienced in sound design, using Audacity and Reaper to create and edit sound effects.
-- 
+  
 🌐 **Connect:**
 - [GitHub](https://github.com/codebender04)
 - [Facebook](https://www.facebook.com/bojhor/)
