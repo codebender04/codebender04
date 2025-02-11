@@ -10,10 +10,10 @@ I'm codebender04, a self-taught game developer and a student at Fulbright Univer
 - Alongside game development, I enjoy dabbling in pixel art creation. (I'm not that good)
 - Eager to expand my skill set and venture into 3D modeling with Blender. (Someday)
 
-🤖 **AI & Machine Learning:**
-- Knowledgeable in machine learning, deep learning, and AI technologies using Python.
-- Excited about the possibilities of integrating AI into game development and exploring innovative solutions
-  
+🎵 **Music & SFX:**
+- I have good knowledge of music theory and have composed beats and game music using FL Studio.
+- Experienced in sound design, using Audacity and Reaper to create and edit sound effects.
+- 
 🌐 **Connect:**
 - [GitHub](https://github.com/codebender04)
 - [Facebook](https://www.facebook.com/bojhor/)
