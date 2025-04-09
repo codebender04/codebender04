@@ -1,6 +1,6 @@
-# Yo wazzup! 👋
+# Hello! 👋
 
-I'm codebender04, a self-taught game developer and a student at Fulbright University Vietnam (FUV).
+I'm khoa, a self-taught game developer and a student at Fulbright University Vietnam (FUV).
 
 🎮 **Game Development:**
 - As a self-taught developer, I specialize in Unity game development, crafting engaging experiences using C#.
