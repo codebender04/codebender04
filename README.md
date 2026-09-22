@@ -1,4 +1,4 @@
-Hello! 👋
+<h1>Hello! 👋</h1>
 
 I'm Khoa, a self-taught multidisciplinary game developer who likes being involved in every part of making a game. I enjoy programming and designing mechanics, but I also like getting my hands dirty with pixel art, music, sound, and all the little details that make a game feel polished and satisfying.
 
